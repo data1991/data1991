@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/in/lizfelix/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
 
-<div class="tenor-gif-embed" data-postid="20799882" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/python-gif-20799882">Python GIF</a>from <a href="https://tenor.com/search/python-gifs">Python GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![geek-girl](https://github.com/data1991/data1991/assets/144493849/e05db633-e2ac-4b2b-b289-df8de9ae8861)
 
 
 ![octocat-1694657122251](https://github.com/data1991/data1991/assets/144493849/a2800826-a4fb-4ef2-93f2-789484ac4721)
