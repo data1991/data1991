@@ -20,8 +20,6 @@
 <a href="https://www.linkedin.com/in/in/lizfelix/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
 
-![geek-girl](https://github.com/data1991/data1991/assets/144493849/e05db633-e2ac-4b2b-b289-df8de9ae8861)
-
 
 ![octocat-1694657122251](https://github.com/data1991/data1991/assets/144493849/a2800826-a4fb-4ef2-93f2-789484ac4721)
 
