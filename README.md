@@ -1,11 +1,10 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Liz Medeiros and my nickname is "Liza"!
 
-#### I'm two semesters away from finishing my degree in Information Systems at UNINASSAU. 
-#### I live in Candeias, Jaboatão dos Guararapes/PE with my parents.
-
-#### I am interested in deepening my knowledge in Power BI, Machine Learning, ChatGPT and IoT,
-#### to be a future Data Scientist, delving into this mysterious and at the same time fascinating world.
+ I'm two semesters away from finishing my degree in Information Systems at UNINASSAU. 
+ I live in Candeias, Jaboatão dos Guararapes/PE with my parents.
+ I am interested in deepening my knowledge in Power BI, Machine Learning, ChatGPT and IoT,
+ to be a future Data Scientist, delving into this mysterious and at the same time fascinating world.
 
 
 - 🌱 Atualmente estou aprendendo ...
