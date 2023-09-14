@@ -3,17 +3,23 @@
 
  I'm two semesters away from finishing my degree in Information Systems at UNINASSAU. 
  I live in Candeias, Jaboatão dos Guararapes/PE with my parents.
- I am interested in deepening my knowledge in Power BI, Machine Learning, ChatGPT and IoT,
+ I am interested in deepening my knowledge in Power BI, Machine Learning, ChatGPT, Games and IoT,
  to be a future Data Scientist, delving into this mysterious and at the same time fascinating world.
 
 
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- 🌱 I'm currently learning Power BI, Machine Learning and I'm delving deeper into Python and Notion.
+- 👯 I'm looking to collaborate through articles, projects, taking DIO to my college and as a seller of DIO Affiliates training.
+- 🤔 I'm looking for help recruiting professionals who are interested in being online course instructors for the LizaWeb and WowTecnologia e-commerce platforms that are yet to be developed.
+- 💬 Ask me about my career plan, how I see AI in my life and how it can be useful to society in the near future.
+- 📫 Como entrar em contato comigo:
+<div>
+<a href="https://instagram.com/dev.learn.universe/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:datascience.lizaweb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/in/lizfelix/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+ 
+- 😄 Pronomes: She/Her
+- ⚡ Curiosidade: I like collecting old coins from different countries
 
 ![octocat-1694657122251](https://github.com/data1991/data1991/assets/144493849/a2800826-a4fb-4ef2-93f2-789484ac4721)
 
