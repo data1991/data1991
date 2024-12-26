@@ -7,7 +7,7 @@
  to be a future Data Scientist, delving into this mysterious and at the same time fascinating world.
 
 
-- 🌱 I'm currently learning Power BI, Machine Learning and I'm delving deeper into Python and Notion.
+- 🌱 I have knowledge in Power BI, Machine Learning and I'm delving deeper into Python and Notion e IA.
 - 👯 I'm looking to collaborate through articles, projects, taking DIO to my college and as a seller of DIO Affiliates training.
 - 🤔 I'm looking for help recruiting professionals who are interested in being online course instructors for the LizaWeb and WowTecnologia e-commerce platforms that are yet to be developed.
 - 💬 Ask me about my career plan, how I see AI in my life and how it can be useful to society in the near future.
