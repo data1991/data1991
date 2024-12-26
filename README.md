@@ -3,7 +3,7 @@
 
  I have a degree in Information Systems at UNINASSAU. 
  I live in Candeias, Jaboatão dos Guararapes/PE with my parents.
- I am interested in deepening my knowledge in Power BI, Machine Learning, ChatGPT, Games and IoT,
+ I'm deepening my knowledge of everything that involves AI and data,
  to be a future Data Scientist, delving into this mysterious and at the same time fascinating world.
 
 
