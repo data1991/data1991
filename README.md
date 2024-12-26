@@ -3,16 +3,16 @@
 
  I have a degree in Information Systems at UNINASSAU. 
  I live in Candeias, Jaboatão dos Guararapes/PE with my parents.
- I'm deepening my knowledge of everything that involves AI and data,
+ I'm delving into everything that involves AI and data,
  to be a future Data Scientist, delving into this mysterious and at the same time fascinating world.
 
 
-- 🌱 I have knowledge in Power BI, Machine Learning and I'm delving deeper into Python, Notion e IA.
+- 🌱 I have knowledge in Power BI, Machine Learning and I'm delving deeper into Python e IA.
 - 👯 I'm looking to collaborate through articles and projects on the DIO platform.
 - 🤔 I'm looking for help recruiting professionals who are interested in being online course instructors for the LizaWeb and WowTecnologia e-commerce platforms that are yet to be developed.
 - 💬 Ask me about my career plan, how I see AI in my life and how it can be useful to society in the near future.
 - 😄 Pronomes: She/Her
-- ⚡ Curiosidade: I like collecting old coins from different countries
+- ⚡ Curiosidade: I like collecting old coins from different countries and I'm curious and a researcher of family trees.
 - 📫 How to contact me:
 <div>
 <a href="https://instagram.com/dev.learn.universe/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
