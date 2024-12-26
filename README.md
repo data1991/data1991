@@ -4,7 +4,7 @@
  I have a degree in Information Systems at UNINASSAU. 
  I live in Candeias, Jaboatão dos Guararapes/PE with my parents.
  I'm delving into everything that involves AI and data,
- to be a future Data Scientist, delving into this mysterious and at the same time fascinating world.
+ to become a future Data Scientist, delving into this mysterious and at the same time fascinating world.
 
 
 - 🌱 I have knowledge in Power BI, Machine Learning and I'm delving deeper into Python e IA.
