@@ -44,11 +44,11 @@ Desenvolvedora **Frontend** e **QA** apaixonada por criar experiências digitais
 
   
 <div>
-<a href="https://github.com/data1991">
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data1991&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=data1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/data1991"> 
+![Liz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=data1991&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data1991&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=data1991&theme=radical&hide_border=true)
 </div>
-
 
 ## 🎓 Formação & Certificações
 
