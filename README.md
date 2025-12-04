@@ -85,7 +85,7 @@ Estou sempre aberta a novos desafios, colaborações e oportunidades de aprendiz
 
 ---
 
-<div align="center">
+<div>
   
 *"Desenvolvedora apaixonada por criar experiências digitais que gerem valor real"*
 
