@@ -33,17 +33,6 @@ Desenvolvedora **Frontend** e **QA** apaixonada por criar experiências digitais
 ### QA & Testing
 ![Testing](https://img.shields.io/badge/Quality_Assurance-4B0082?style=for-the-badge&logo=testing-library&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Liz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=data1991&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data1991&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=data1991&theme=radical&hide_border=true)
-
-</div>
 
 ## 🎓 Formação & Certificações
 
