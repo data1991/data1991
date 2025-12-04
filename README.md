@@ -5,12 +5,16 @@
 
 Desenvolvedora **Frontend** e **QA** apaixonada por criar experiências digitais que geram valor real. Com jornada iniciada em 2014, atuo com **HTML5**, **CSS3**, **JavaScript**, **Python** e tecnologias modernas de **Cloud Computing**.
 
+- 😄 Pronomes: Ela/Dela
 - 🎓 **DIO Campus Expert** - Conectando talentos à tecnologia
 - 💼 Bacharel em **Sistemas de Informação** pela UNINASSAU
 - 🎯 Focada em **IA Generativa**, **Data Science**, **Cloud Computing** e **React**
 - 🌱 Sempre aprendendo e evoluindo com as melhores práticas do mercado
 - 📍 Localização: Jaboatão dos Guararapes, PE - Brasil
+-💬 Me pergunte sobre meu plano de carreira, como vejo a IA na minha vida e como ela pode ser útil para a sociedade num futuro próximo.
+- ⚡ Curiosidade: Gosto de colecionar moedas antigas de diferentes países e sou curiosa e pesquisadora de árvores genealógicas.
 
+  
 ## 💻 Tech Stack
 
 ### Frontend
