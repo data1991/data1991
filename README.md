@@ -74,7 +74,7 @@ Desenvolvedora **Frontend** e **QA** apaixonada por criar experiências digitais
 
 Estou sempre aberta a novos desafios, colaborações e oportunidades de aprendizado!
 
-<div align="center">
+<div>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizfelix)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/data1991)
