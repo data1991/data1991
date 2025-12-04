@@ -48,8 +48,6 @@ Desenvolvedora **Frontend** e **QA** apaixonada por criar experiências digitais
 
 ![Top Langs](https://https://github-readme-stats-eta-one-52.vercel.app/api/top-langs/?username=data1991&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=data1991&theme=radical&hide_border=true)
-
 </div>
 
 
