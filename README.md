@@ -1,12 +1,5 @@
 # 👋 Olá! Eu sou a Liz Medeiros
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizfelix)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/data1991)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizmedeiros33@gmail.com)
-
-</div>
 
 ## 🚀 Sobre Mim
 
@@ -81,9 +74,14 @@ Desenvolvedora **Frontend** e **QA** apaixonada por criar experiências digitais
 
 Estou sempre aberta a novos desafios, colaborações e oportunidades de aprendizado!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lizfelix)
-- 📧 [Email](mailto:lizmedeiros33@gmail.com)
-- 💻 [Portfolio](https://github.com/data1991)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizfelix)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/data1991)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizfelix.ti@gmail.com)
+
+</div>
+  
 
 ---
 
