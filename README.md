@@ -44,9 +44,9 @@ Desenvolvedora **Frontend** e **QA** apaixonada por criar experiências digitais
 
  <div align="center">
   
-![Liz's GitHub Stats](https://https://github-readme-stats-eta-one-52.vercel.app/api?username=data1991&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Liz's GitHub Stats](https://data1991.vercel.app/api?username=data1991&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://https://github-readme-stats-eta-one-52.vercel.app/api/top-langs/?username=data1991&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://https://data1991.vercel.app//api/top-langs/?username=data1991&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
